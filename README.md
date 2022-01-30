@@ -1,2 +1,0 @@
-# opencart
-Opencart new project
